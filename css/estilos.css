@@ -1,0 +1,19 @@
+.btn-maquina:hover{
+    cursor:default;
+}
+@media only screen and (min-width: 992px) {
+   
+    .centrar-lg{
+        display: flex!important;
+        justify-content: center!important;
+        align-items: center!important;
+        flex-direction: column;
+    }
+    .w-large-100{
+        width: 60%!important;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+    }
+  }
